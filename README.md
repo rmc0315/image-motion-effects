@@ -162,9 +162,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 
-- Check the [Issues](https://github.com/yourusername/image-motion-effects/issues) page
+- Check the [Issues](https://github.com/rmc0315/image-motion-effects/issues) page
 - Read the [Effects Guide](docs/effects_guide.md) for detailed effect descriptions
-- Contact: your.email@example.com
+- Contact: Through GitHub message
 
 ## 🎥 Made for Content Creators, by Content Creators
 
