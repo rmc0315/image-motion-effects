@@ -18,6 +18,9 @@ Creating engaging YouTube content often requires showing still images - historic
 
 ## 🚀 Features
 
+![image](https://github.com/user-attachments/assets/83c2a9eb-7701-4c17-8c74-35584e051d5e)
+
+
 - **9 Professional Effects**:
   - Zoom In/Out
   - Fade In/Out
